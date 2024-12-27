@@ -26,8 +26,14 @@ public class Bitwiseoperator {
 
         System.out.println(a^b);
 
+        // bitwise left shift operator
+        System.out.println(a<<2);
+        // bitwise right shift operator
+        System.out.println(a>>2);
+        // bitwise zerofill rightshift operator >>>
+        System.out.println(a>>>2);
 
-
+        
 
 
         sc.close();
