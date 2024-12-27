@@ -15,6 +15,8 @@ public class Namingconventions {
         // Datatypes in java
 
         
+
+
     }
     
 }
