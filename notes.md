@@ -19,15 +19,47 @@
         // static public void main(String args[])
         // static public void main(String x[])
 
-    
-    # naming conventions
-        // to import the packeges 
-        // all letters should be small e.g:- 
-        // to name a method and variables firstword will be a small case and from second word onwards it was capital letter
-        // naming of the variable will be the same as of the method naming
 
-        // all the variable contains inbuilt constant values should be all uppercase
-        // PI,BOLD etc
-        // all keywords such as public,static,void,int,float,private etc should be all small case letters
+## naming conventions
+    // to import the packeges 
+    // all letters should be small e.g:- 
+    // to name a method and variables firstword will be a small case and from second word onwards it was capital letter
+    // naming of the variable will be the same as of the method naming
 
-        // Datatypes in java
+    // all the variable contains inbuilt constant values should be all uppercase
+    // PI,BOLD etc
+    // all keywords such as public,static,void,int,float,private etc should be all small case letters
+
+# Datatypes in java
+
+        // variable is a memory storage which stores the data to use it we should first store it
+        // for integer we have byte,short,int,long(1,2,4,8) bytes respectively   
+        // for long we should add the L at the end of the numner
+         // float datatypes
+        // there are two types of float data types 
+        // 1.float (4bytes)
+        // 2.double(8bytes)
+        // we have to add the F at the end of the floating variable
+
+          // literals are the various types of data stored in variables
+
+        // for integer we have decimal
+        // we gave octal
+        // we have hexadecimal
+
+        int deci=123;
+        int octal=032;
+        int hexa=0x1a;
+        System.out.println(octal);
+        System.out.println(hexa);
+        System.out.println(deci);
+
+        // binary literals
+        
+        int num=0b010001;
+        short sn=(short)num;
+
+        System.out.println(num);
+        System.out.println(sn);
+#
+
