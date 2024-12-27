@@ -10,6 +10,12 @@ public class Sum {
         
         int summ=x+y;
         System.out.println(summ);
+
+        // formatting the output
+
+        System.out.println("the sum of two numbers = "+summ);
+
+
     }
     
 }
