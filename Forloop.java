@@ -34,6 +34,16 @@ public class Forloop {
             }
         }
 
+        // multiple declarations
+        System.out.println();
+        for(int p=1,q=5;p<=5;p++,q--)
+        {
+            System.out.println(p+"\t"+q);
+            
+        }
+
+        
+
 
     }
 }
