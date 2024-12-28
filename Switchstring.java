@@ -1,8 +1,9 @@
 import java.util.*;
+import java.lang.*;
 public class Switchstring {
 
     public static void main(String args[])
-    {
+    {å
         Scanner sc=new Scanner(System.in);
 
         String option=sc.next();
