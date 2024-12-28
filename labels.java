@@ -11,5 +11,5 @@ public class labels {
             System.out.println("--------------------");
         }
     }
-    
+
 }
