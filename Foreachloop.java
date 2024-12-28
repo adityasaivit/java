@@ -7,7 +7,5 @@ public class Foreachloop {
         {
             System.out.println(i);
         }
-
-    }
-    
+    } 
 }
