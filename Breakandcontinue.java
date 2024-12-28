@@ -1,6 +1,10 @@
 public class Breakandcontinue {
     public static void main(String args[])
     {
+        // unline c/c++ there is no goto function in java as it creates a confusion in a large projects 
+        // and programs
+
+        
         int i=1;
         while(true)
         {
