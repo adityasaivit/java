@@ -19,8 +19,7 @@ public class Arrays {
         {
             System.out.print(arr[j-1]+" ");
         }
-
-
+        sc.close();
 
     }
     
